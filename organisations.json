@@ -52,4 +52,38 @@
             "Educational scholarships",
             "Community support for elderly and disadvantaged individuals"
         ],
-        "url": "https://www.sikhwelfarecouncil
+        "url": "https://www.sikhwelfarecouncil.org"
+    },
+    {
+        "name": "PERGAS (Singapore Islamic Scholars & Religious Teachers Association)",
+        "focus": "Malay/Muslim community with a focus on religious scholars and educators",
+        "mission": "To enhance the socio-religious well-being of the Muslim community in Singapore.",
+        "programs": [
+            "Religious education and training",
+            "Leadership development",
+            "Social outreach programs"
+        ],
+        "url": "https://www.pergas.org.sg"
+    },
+    {
+        "name": "Little India Shopkeepers and Heritage Association (LISHA)",
+        "focus": "Indian business and cultural community in Little India",
+        "mission": "To preserve the cultural heritage and promote the interests of the Indian community in Singapore.",
+        "programs": [
+            "Cultural festivals and events (e.g., Deepavali celebrations)",
+            "Advocacy for business owners in Little India"
+        ],
+        "url": "https://www.lisha.org.sg"
+    },
+    {
+        "name": "Association of Muslim Professionals (AMP)",
+        "focus": "Malay/Muslim professionals",
+        "mission": "To empower the Malay/Muslim community through professional development and social programs.",
+        "programs": [
+            "Education and training for adults and youth",
+            "Family support programs",
+            "Research and advocacy for community advancement"
+        ],
+        "url": "https://www.amp.org.sg"
+    }
+]
