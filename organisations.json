@@ -1,0 +1,81 @@
+[
+    {
+        "name": "CDAC (Chinese Development Assistance Council)",
+        "focus": "Chinese community",
+        "mission": "To uplift lower-income Chinese families through educational, financial, and social programs.",
+        "programs": [
+            "Tuition classes and educational support",
+            "Family support schemes",
+            "Skills development for adults"
+        ]
+    },
+    {
+        "name": "MENDAKI (Council for the Development of Singapore Malay/Muslim Community)",
+        "focus": "Malay/Muslim community",
+        "mission": "To support the educational and socio-economic advancement of the Malay/Muslim community.",
+        "programs": [
+            "Bursaries and scholarships",
+            "Tuition programs for students",
+            "Career guidance and upskilling workshops"
+        ]
+    },
+    {
+        "name": "Eurasian Association",
+        "focus": "Eurasian community",
+        "mission": "To preserve and promote Eurasian heritage and provide support for education and social causes.",
+        "programs": [
+            "Scholarships and bursaries for students",
+            "Cultural and heritage programs",
+            "Social assistance for families in need"
+        ]
+    },
+    {
+        "name": "TCC (The Tamil Language and Cultural Society)",
+        "focus": "Tamil-speaking Indian community",
+        "mission": "To promote the Tamil language, culture, and heritage in Singapore.",
+        "programs": [
+            "Language courses and enrichment programs",
+            "Cultural workshops and events",
+            "Heritage preservation initiatives"
+        ]
+    },
+    {
+        "name": "Sikh Welfare Council (SIKH COUNCIL)",
+        "focus": "Sikh community",
+        "mission": "To provide welfare and social support to members of the Sikh community and beyond.",
+        "programs": [
+            "Financial aid for low-income families",
+            "Educational scholarships",
+            "Community support for elderly and disadvantaged individuals"
+        ]
+    },
+    {
+        "name": "PERGAS (Singapore Islamic Scholars & Religious Teachers Association)",
+        "focus": "Malay/Muslim community with a focus on religious scholars and educators",
+        "mission": "To enhance the socio-religious well-being of the Muslim community in Singapore.",
+        "programs": [
+            "Religious education and training",
+            "Leadership development",
+            "Social outreach programs"
+        ]
+    },
+    {
+        "name": "Little India Shopkeepers and Heritage Association (LISHA)",
+        "focus": "Indian business and cultural community in Little India",
+        "mission": "To preserve the cultural heritage and promote the interests of the Indian community in Singapore.",
+        "programs": [
+            "Cultural festivals and events (e.g., Deepavali celebrations)",
+            "Advocacy for business owners in Little India"
+        ]
+    },
+    {
+        "name": "Association of Muslim Professionals (AMP)",
+        "focus": "Malay/Muslim professionals",
+        "mission": "To empower the Malay/Muslim community through professional development and social programs.",
+        "programs": [
+            "Education and training for adults and youth",
+            "Family support programs",
+            "Research and advocacy for community advancement"
+        ]
+    }
+]
